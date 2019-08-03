@@ -1,0 +1,12 @@
+package com.example.bean;
+
+import org.springframework.stereotype.Component;
+
+@Component("SomeThing")
+public class SomeThing {
+	
+	public void someLogic() {
+		System.out.println("Executing some logic....");
+	}
+
+}
