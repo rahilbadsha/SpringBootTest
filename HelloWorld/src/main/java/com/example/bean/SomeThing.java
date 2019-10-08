@@ -10,6 +10,7 @@ public class SomeThing {
 		System.out.println("Git hub webhook test");
 		System.out.println("Git hub webhook test");
 		System.out.println("Git hub webhook test");
+		System.out.println("Git hub webhook test");
 		System.out.println("another Git hub webhook test");
 		System.out.println("Executing some logic....");
 	}
